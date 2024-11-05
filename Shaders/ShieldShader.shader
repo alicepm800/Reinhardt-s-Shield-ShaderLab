@@ -2,7 +2,7 @@ Shader "Custom/ShieldShader"
 {
     Properties
     {
-		//Allows the RGBA of the shader to be edited in the Unity Editor
+	//Allows the RGBA of the shader to be edited in the Unity Editor
         _Colour("Colour", COLOR) = (0,0,0,0)
 
         //Defines the hexagon texture variable
